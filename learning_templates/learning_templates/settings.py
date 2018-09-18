@@ -25,7 +25,7 @@ SECRET_KEY = 'egt_m37ts%e9mge=_y#%d&ph@96p2ycv67(r$admiq#vtlr8&9'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [*]
 
 
 # Application definition
